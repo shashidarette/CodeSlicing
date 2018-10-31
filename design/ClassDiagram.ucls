@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="dependenceAnalysis.analysis.Analysis" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/analysis/Analysis.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="191" x="924" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="dependenceAnalysis.analysis.ControlDependenceTree" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/analysis/ControlDependenceTree.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="238" y="418"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dependenceAnalysis.analysis.DataFlowAnalysis" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/analysis/DataFlowAnalysis.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="364" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="dependenceAnalysis.analysis.PostDominatorTree" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/analysis/PostDominatorTree.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="473" x="411" y="338"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="dependenceAnalysis.analysis.ProgramDependenceGraph" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/analysis/ProgramDependenceGraph.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="280" x="1268" y="338"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="dependenceAnalysis.util.cfg.CFGExtractor" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/util/cfg/CFGExtractor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="210" x="445" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dependenceAnalysis.util.cfg.Graph" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/util/cfg/Graph.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="304" x="924" y="338"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dependenceAnalysis.util.cfg.Node" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/util/cfg/Node.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="189" x="695" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="dependenceAnalysis.util.cfg.GraphEdge" project="CodeAnalysisToolkit" 
+    file="/CodeAnalysisToolkit/src/main/java/dependenceAnalysis/util/cfg/GraphEdge.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="299" y="251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="10">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="11" name="destination"/>      
+      <multiplicity id="12" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="16">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="17" name="controlFlowGraph">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="18" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="20" name="source"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
